@@ -1,0 +1,28 @@
+.card {
+  padding: 60 px;
+  widht: 60px;
+  height: 50px;
+  margin: 0;
+  background-color: rgb(153, 30, 34);
+  background: rgb(153, 30, 34);
+  padding: 350px 170px;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.social {
+  font-family: Arial, Sans-Serif, Times New Roman;
+  display: inline-block;
+  margin: center;
+  color: white;
+  border-radius: 15px;
+  transition: background 0.3s;
+  background: rgb(153, 30, 34);
+  padding: 10px 30px;
+}
+ a {
+      color: white;             
+      text-decoration: none;    
+      font-size: 20px; 
+      font-family: Arial, Sans-Serif, Times New Roman;
+    }
+    
